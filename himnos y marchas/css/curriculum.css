@@ -1,0 +1,36 @@
+body {
+	background-color: #FFFFFF;
+}
+
+.jumbotron {
+	background-color: #B52F08;
+}
+
+.jumbotron h1 {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.jumbotron p {
+	text-align: center;
+	color: #FFFF00;
+}
+
+.col-md-3 h1{
+	text-align: center;
+	color: #FF8008;
+}
+
+article {
+	padding-top: 25px;
+}
+
+.well p {
+	text-align: center;
+	color: #B52F08;
+	font-size: 1.5em;
+}
+
+span p {
+	font-size: 1.25em;
+}
